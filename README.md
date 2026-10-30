@@ -1,2 +1,5 @@
-# validity-centered-XAI
-Repository for validity-centered XAI in AI-facilitated Scientific Modeling Processes
+# Validity-Centered Explainable AI in AI-Facilitated Scientific Modeling Processes
+Welcome to the GitHub Repository for "Validity-Centered Explainable AI in AI-Facilitated Scientific Modeling Processes"
+This repository currently includes example code that will be used in our framework pipeline. 
+
+Once the project is completed, sample data from an AI chatbot personality interview will be shared and analytic code will be provided to demonstrate how integrating XAI methods and traditional validity components can support better scientific modeling processes when using AI.
