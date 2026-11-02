@@ -1,5 +1,5 @@
-# Validity-Centered Explainable AI in AI-Facilitated Scientific Modeling Processes
-Welcome to the (continuously updating) GitHub Repository for "Validity-Centered Explainable AI in Facilitating Scientific Modeling Processes"!
+# Validity-centered Explainable AI for Organizational Measurement
+Welcome to the (continuously updating) GitHub Repository for "Is XAI just Validity? Validity-centered Explainable AI for Organizational Measurement"!
 
 This repository currently includes example code that will be used in our framework pipeline. 
 
